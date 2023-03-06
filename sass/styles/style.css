@@ -1,0 +1,44 @@
+.btn {
+  display: inline-block;
+  border-radius: 6px;
+  padding: 1rem;
+}
+
+.btn-blue {
+  background-color: #0d6efd;
+}
+
+.btn-indigo {
+  background-color: #6610f2;
+}
+
+.btn-purple {
+  background-color: #6f42c1;
+}
+
+.btn-pink {
+  background-color: #d63384;
+}
+
+.btn-red {
+  background-color: #e60000;
+}
+
+.caja.caja-white {
+  color: beige;
+}
+
+.caja .listado {
+  background: blue;
+  color: white;
+}
+
+.caja .titulo {
+  background: red;
+  color: green;
+}
+
+body {
+  background: green;
+}
+/*# sourceMappingURL=style.css.map */

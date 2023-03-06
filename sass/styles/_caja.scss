@@ -1,0 +1,15 @@
+.caja {
+    &.caja-white {
+        color: beige;
+    } 
+
+    .listado {
+        background: blue;
+        color: white;
+    }
+
+    .titulo {
+        background: red;
+        color: green;
+    }
+}
